@@ -7,9 +7,10 @@ const NavigationHeader = () => {
                 <div className={classes.Lewa}>
                     <div className={classes.TextLewa}>
                         <p>Logo&nbsp;&nbsp;&nbsp;&nbsp;</p>
-
+                        <div className={classes.mojelogo}></div>
                         <p>ARPPL</p>
                     </div>
+
                 </div>
                 <div className={classes.Prawa}>
                     <div className={classes.TextPrawa}>

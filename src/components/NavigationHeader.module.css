@@ -16,6 +16,13 @@
     flex-direction: row;
     /* padding: 0 10px 0 10px /* gora, prawo, doł, lewo*/
 }
+.mojelogo {
+
+    width: 200px;
+    height: 200px;
+    background: url(https://i.ibb.co/XykKL1n/logo-alfa.png) no-repeat center;
+}
+
 
 .Lewa {
     height: 100%;
