@@ -6,9 +6,9 @@ const NavigationHeader = () => {
             <div className={classes.PasekNawigacyjny}>
                 <div className={classes.Lewa}>
                     <div className={classes.TextLewa}>
-                        <p>Logo&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
                         <div className={classes.mojelogo}></div>
-                        <p>ARPPL</p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;ARPPL</p>
                     </div>
 
                 </div>
